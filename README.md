@@ -2,12 +2,12 @@
 
 ##Inhaltsverzeichnis
 
--[Global config] (#Schreibe ein paar "Global config" Variablen)
--[Master Ordner] (#Master Ordner)
--[Files] (#Files)
--[Änderungen] (#Änderungen)
--[Hochladen] (#Hochladen)
--[Tutorial] (#Tutorial)
+- [Global config] (#Schreibe ein paar "Global config" Variablen)
+- [Master Ordner] (#Master Ordner)
+- [Files] (#Files)
+- [Änderungen] (#Änderungen)
+- [Hochladen] (#Hochladen)
+- [Tutorial] (#Tutorial)
 
 
 
@@ -21,7 +21,7 @@
 - git config --list 
 	- Überpfüfung
 ```
-	[Global config Variablen](https://github.com/hanna220032/spl2_2023/blob/master/README/git%20config.png)
+	[Global config Variablen](https://github.com/hanna220032/spl2_2023/blob/master/README/git%20config.png?raw=true)
 
 <a name="Master Ordner"></a>
 ## Master Ordner
@@ -29,7 +29,7 @@
 - git init
 	- um Ordner zu Git-Ordner zu machen
 ```	
-	[Master Ordner erstellen](https://github.com/hanna220032/spl2_2023/blob/master/README/master%20ordner.png)
+	[Master Ordner erstellen](https://github.com/hanna220032/spl2_2023/blob/master/README/master%20ordner.png?raw=true)
 
 <a name="Files"></a>
 ## Files
@@ -41,7 +41,7 @@
 - git commit -m "Kommentar"
 	- um files bereit zum hochladen machen
 ```
-	[Files erstellen](https://github.com/hanna220032/spl2_2023/blob/master/README/Files.png)
+	[Files erstellen](https://github.com/hanna220032/spl2_2023/blob/master/README/Files.png?raw=true)
 
 <a name="Änderungen"></a>
 ## Änderungen
@@ -49,7 +49,7 @@
 - git diff
 	- man sieht ob was im file geändert wird
 ```
-	[kann man sehen ob etwas geändeet wurde.](https://github.com/hanna220032/spl2_2023/blob/master/README/aenderungen.png)
+	[kann man sehen ob etwas geändeet wurde.](https://github.com/hanna220032/spl2_2023/blob/master/README/aenderungen.png?raw=true)
 
 <a name"Hochladen"></a>
 ## Hochladen
@@ -59,7 +59,7 @@
 - git push origin master
 	- um committed files auf Onlineordner zu laden
 ```
-	[Hochladen](https://github.com/hanna220032/spl2_2023/blob/master/README/hochladen.png)
+	[Hochladen](https://github.com/hanna220032/spl2_2023/blob/master/README/hochladen.png?raw=true)
 <a name "Tutorial"></a>
 ## Tutorial
 
