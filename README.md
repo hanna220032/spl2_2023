@@ -1,6 +1,6 @@
-#Git commands
+# Git commands
 
-##Inhaltsverzeichnis
+## Inhaltsverzeichnis
 
 - [Global config](#schreibeeinpaarglobalconfigvariablen)
 - [Master Ordner](#masterordner)
