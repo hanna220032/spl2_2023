@@ -21,7 +21,7 @@
 - git config --list 
 	- Überpfüfung
 ```
-	![Global config Variablen](https://github.com/hanna220032/spl2_2023/blob/master/README/git%20config.png?raw=true)
+![Global config Variablen](https://github.com/hanna220032/spl2_2023/blob/master/README/git%20config.png?raw=true)
 
 <a name="masterordner"></a>
 ## Master Ordner
@@ -29,7 +29,7 @@
 - git init
 	- um Ordner zu Git-Ordner zu machen
 ```	
-	![Master Ordner erstellen](https://github.com/hanna220032/spl2_2023/blob/master/README/master%20ordner.png?raw=true)
+![Master Ordner erstellen](https://github.com/hanna220032/spl2_2023/blob/master/README/master%20ordner.png?raw=true)
 
 <a name="files"></a>
 ## Files
@@ -41,7 +41,7 @@
 - git commit -m "Kommentar"
 	- um files bereit zum hochladen machen
 ```
-	![Files erstellen](https://github.com/hanna220032/spl2_2023/blob/master/README/Files.png?raw=true)
+![Files erstellen](https://github.com/hanna220032/spl2_2023/blob/master/README/Files.png?raw=true)
 
 <a name="änderungen"></a>
 ## Änderungen
@@ -49,7 +49,7 @@
 - git diff
 	- man sieht ob was im file geändert wird
 ```
-	![kann man sehen ob etwas geändeet wurde.](https://github.com/hanna220032/spl2_2023/blob/master/README/aenderungen.png?raw=true)
+![kann man sehen ob etwas geändeet wurde.](https://github.com/hanna220032/spl2_2023/blob/master/README/aenderungen.png?raw=true)
 
 <a name="hochladen"></a>
 ## Hochladen
@@ -59,8 +59,8 @@
 - git push origin master
 	- um committed files auf Onlineordner zu laden
 ```
-	![Hochladen](https://github.com/hanna220032/spl2_2023/blob/master/README/hochladen.png?raw=true)
+![Hochladen](https://github.com/hanna220032/spl2_2023/blob/master/README/hochladen.png?raw=true)
 <a name="tutorial"></a>
 ## Tutorial
 
-	[Tutorial](https://www.simplilearn.com/tutorials/git-tutorial/what-is-git)
+[Tutorial](https://www.simplilearn.com/tutorials/git-tutorial/what-is-git)
