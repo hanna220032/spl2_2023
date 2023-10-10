@@ -2,17 +2,17 @@
 
 ##Inhaltsverzeichnis
 
-- [Global config] (#Schreibe ein paar "Global config" Variablen)
-- [Master Ordner] (#Master Ordner)
-- [Files] (#Files)
-- [Änderungen] (#Änderungen)
-- [Hochladen] (#Hochladen)
-- [Tutorial] (#Tutorial)
+- [Global config](#schreibeeinpaarglobalconfigvariablen)
+- [Master Ordner](#masterordner)
+- [Files](#files)
+- [Änderungen](#änderungen)
+- [Hochladen](#hochladen)
+- [Tutorial](#tutorial)
 
 
 
-<a name="Schreibe ein paar "Global config" Variablen"></a>
-## Schreibe ein paar "Global config" Variablen
+<a name="schreibeeinpaarglobalconfigvariablen"></a>
+## Schreibe ein paar Global config Variablen
 ```
 - git config --global user.name "Name"
 	- username eingeben
@@ -23,7 +23,7 @@
 ```
 	[Global config Variablen](https://github.com/hanna220032/spl2_2023/blob/master/README/git%20config.png?raw=true)
 
-<a name="Master Ordner"></a>
+<a name="masterordner"></a>
 ## Master Ordner
 ```
 - git init
@@ -31,7 +31,7 @@
 ```	
 	[Master Ordner erstellen](https://github.com/hanna220032/spl2_2023/blob/master/README/master%20ordner.png?raw=true)
 
-<a name="Files"></a>
+<a name="files"></a>
 ## Files
 ```
 - git status
@@ -43,7 +43,7 @@
 ```
 	[Files erstellen](https://github.com/hanna220032/spl2_2023/blob/master/README/Files.png?raw=true)
 
-<a name="Änderungen"></a>
+<a name="änderungen"></a>
 ## Änderungen
 ```
 - git diff
@@ -51,7 +51,7 @@
 ```
 	[kann man sehen ob etwas geändeet wurde.](https://github.com/hanna220032/spl2_2023/blob/master/README/aenderungen.png?raw=true)
 
-<a name"Hochladen"></a>
+<a name="hochladen"></a>
 ## Hochladen
 ```
 - git remote add origin "link des ersteltlen repositorys"
@@ -60,7 +60,7 @@
 	- um committed files auf Onlineordner zu laden
 ```
 	[Hochladen](https://github.com/hanna220032/spl2_2023/blob/master/README/hochladen.png?raw=true)
-<a name "Tutorial"></a>
+<a name="tutorial"></a>
 ## Tutorial
 
 	[Tutorial](https://www.simplilearn.com/tutorials/git-tutorial/what-is-git)
