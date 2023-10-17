@@ -1,0 +1,1 @@
+einen Relativen Pfad kann man auf egal welchem gerät aufrufen.
