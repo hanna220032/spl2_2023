@@ -35,11 +35,11 @@
 ## Files
 ```
 - git status
-	- zeigt den Status des aktuellen files
+	- zeigt den Status des repositorys an
 - git add "file"
-	- fügt vorhandene files zu Git zu
+	- wird zum Verzeichnis hinzugefügt
 - git commit -m "Kommentar"
-	- um files bereit zum hochladen machen
+	- um einen Kommentar hinzuzufügen was geändert wurde
 ```
 ![Files erstellen](./images/Files.png?raw=true)
 
@@ -49,7 +49,7 @@
 - git diff
 	- man sieht ob was im file geändert wird
 ```
-![kann man sehen ob etwas geändeet wurde.](./images/aenderungen.png?raw=true)
+![kann man sehen ob etwas geändert wurde.](./images/aenderungen.png?raw=true)
 
 <a name="hochladen"></a>
 ## Hochladen
